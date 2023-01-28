@@ -16,7 +16,7 @@ import premium
 
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|17| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/17.py) |
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [python3](https://github.com/kapforty/leetcode/blob/main/python3/217.py) |
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [python3](https://github.com/kapforty/leetcode/blob/main/python3/242.py) |
-|17| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/17.py) |
-|4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)| [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/4.py) |
+|| []()| [python3]() |
