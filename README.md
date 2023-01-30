@@ -20,7 +20,7 @@ import premium
 |90| [Subsets II](https://leetcode.com/problems/subsets-ii/description/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/90.py) |
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [python3](https://github.com/kapforty/leetcode/blob/main/python3/217.py) |
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [python3](https://github.com/kapforty/leetcode/blob/main/python3/242.py) |
-<!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
+|1| [Two Sum](https://leetcode.com/problems/two-sum/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1.py) |
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
