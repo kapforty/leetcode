@@ -6,7 +6,7 @@ This repository includes my solutions to all Leetcode algorithm questions. This 
 
 ### Prerequisites
 
-Some problems may need premium subscription on LeetCode to unlock it!
+Some problems may need premium subscription on LeetCode to unlock it! 
 
 ```
 import premium
