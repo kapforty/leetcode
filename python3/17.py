@@ -1,24 +1,36 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        if digits == "":
+        if not digits:
             return []
-        numMap = {
-            "1" : [],
-            "2" : ["a", "b", "c"],
-            "3" : ["d", "e", "f"],
-            "4" : ["g", "h", "i"],
-            "5" : ["j", "k", "l"],
-            "6" : ["m", "n", "o"],
-            "7" : ["p", "q", "r", "s"],
-            "8" : ["t", "u", "v"],
-            "9" : ["w", "x", "y", "z"]
-        }
+            
+        letters = {"2": "abc", "3": "def", "4": "ghi",  "5": "jkl", "6": "mno", "7": "pqrs", "8": "tuv", "9": "wxyz"}
         res = []
-        def bt(i, curr):
-            if i == len(digits):
-                res.append(curr)
+
+        def backtrack(string, nextDigits):
+            if not nextDigits:
+                res.append(string)
                 return
-            for char in numMap[digits[i]]:
-                bt(i+1, curr + char)
-        bt(0, "")
+            for letter in letters[nextDigits[0]]:
+                backtrack(string + letter, nextDigits[1:])
+
+        backtrack("", digits)
         return res
+            
+# ITERATIVE
+# class Solution:
+#     def letterCombinations(self, digits: str) -> List[str]:
+#         letters = {"2": "abc", "3": "def", "4": "ghi",  "5": "jkl", "6": "mno", "7": "pqrs", "8": "tuv", "9": "wxyz"}
+#         res = []
+
+#         for char in digits:
+#             if not res:
+#                 res = letters[char]
+#                 continue
+   
+#             temp = []
+#             for string in res:
+#                 for letter in letters[char]:
+#                     temp.append(string + letter)
+#             res = temp
+
+#         return res
