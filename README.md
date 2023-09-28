@@ -178,6 +178,7 @@ https://leetcode.com/studyplan/top-interview-150/
 #### Array / String
 | # | Problem | Solution |
 | :---: | --- | --- |
+|88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/88.py) |
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
 </details>
 
