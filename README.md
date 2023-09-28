@@ -5,6 +5,9 @@ This collection features my detailed solutions to a wide range of LeetCode algor
 <a href="https://www.linkedin.com/in/jordanperanginangin/" style="margin-right: 20px;">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="LinkedIn" width="25" height="25">
 </a>
+<a href="https://leetcode.com/kapforty/">
+  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="25" height="25">
+</a>
 <a href="https://twitter.com/kapforty">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="Twitter" width="25" height="25">
 </a>
