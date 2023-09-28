@@ -54,118 +54,118 @@ https://leetcode.com/studyplan/leetcode-75/
 #### Prefix Sum
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|1732| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1732.py) |
-|724| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/724.py) |
+|1732| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1732.py) |
+|724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/724.py) |
 #### Hash Map / Set
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|2215| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2215.py) |
-|1207| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1207.py) |
-|1657| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1657.py) |
-|2352| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2352.py) |
+|2215| [Find the Difference of Two Arrays]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2215.py) |
+|1207| [Unique Number of Occurrences]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1207.py) |
+|1657| [Determine if Two Strings Are Close]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1657.py) |
+|2352| [Equal Row and Column Pairs]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2352.py) |
 #### Stack
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|2390| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2390.py) |
-|735| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/735.py) |
-|394| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/394.py) |
+|2390| [Removing Stars From a String]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2390.py) |
+|735| [Asteroid Collision]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/735.py) |
+|394| [Decode String]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/394.py) |
 #### Queue
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|933| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/933.py) |
-|649| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/649.py) |
+|933| [Number of Recent Calls]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/933.py) |
+|649| [Dota2 Senate]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/649.py) |
 #### Linked List
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|2095| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2095.py) |
-|328| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/328.py) |
-|206| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/206.py) |
-|2130| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2130.py) |
+|2095| [Delete the Middle Node of a Linked List]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2095.py) |
+|328| [Odd Even Linked List]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/328.py) |
+|206| [Reverse Linked List]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/206.py) |
+|2130| [Maximum Twin Sum of a Linked List]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2130.py) |
 #### Binary Tree - DFS
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|104| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/104.py) |
-|872| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/872.py) |
-|1448| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1448.py) |
-|437| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/437.py) |
-|1372| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1372.py) |
-|236| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/236.py) |
+|104| [Maximum Depth of Binary Tree]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/104.py) |
+|872| [Leaf-Similar Trees]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/872.py) |
+|1448| [Count Good Nodes in Binary Tree]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1448.py) |
+|437| [Path Sum III]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/437.py) |
+|1372| [Longest ZigZag Path in a Binary Tree]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1372.py) |
+|236| [Lowest Common Ancestor of a Binary Tree]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/236.py) |
 #### Binary Tree - BFS
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|199| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/199.py) |
-|1161| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1161.py) |
+|199| [Binary Tree Right Side View]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/199.py) |
+|1161| [Maximum Level Sum of a Binary Tree]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1161.py) |
 #### Binary Search Tree
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|700| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/700.py) |
-|450| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/450.py) |
+|700| [Search in a Binary Search Tree]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/700.py) |
+|450| [Delete Node in a BST]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/450.py) |
 #### Graphs - DFS
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|841| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/841.py) |
-|547| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/547.py) |
-|1466| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1466.py) |
-|399| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/399.py) |
+|841| [Keys and Rooms]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/841.py) |
+|547| [Number of Provinces]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/547.py) |
+|1466| [Reorder Routes to Make All Paths Lead to the City Zero]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1466.py) |
+|399| [Evaluate Division]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/399.py) |
 #### Graphs - BFS
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|1926| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1926.py) |
-|994| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/994.py) |
+|1926| [Nearest Exit from Entrance in Maze]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1926.py) |
+|994| [Rotting Oranges]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/994.py) |
 #### Heap / Priority Queue
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|215| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/215.py) |
-|2336| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2336.py) |
-|2542| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2542.py) |
-|2462| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2462.py) |
+|215| [Kth Largest Element in an Array]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/215.py) |
+|2336| [Smallest Number in Infinite Set]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2336.py) |
+|2542| [Maximum Subsequence Score]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2542.py) |
+|2462| [Total Cost to Hire K Workers]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2462.py) |
 #### Binary Search
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|374| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/374.py) |
-|2300| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2300.py) |
-|162| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/162.py) |
-|875| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/875.py) |
+|374| [Guess Number Higher or Lower]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/374.py) |
+|2300| [Successful Pairs of Spells and Potions]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2300.py) |
+|162| [Find Peak Element]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/162.py) |
+|875| [Koko Eating Bananas]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/875.py) |
 #### Backtracking
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|17| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/17.py) |
-|216| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/216.py) |
+|17| [Letter Combinations of a Phone Number]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/17.py) |
+|216| [Combination Sum III]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/216.py) |
 #### DP - 1D
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|1137| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1137.py) |
-|746| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/746.py) |
-|198| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/198.py) |
-|790| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/790.py) |
+|1137| [N-th Tribonacci Number]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1137.py) |
+|746| [Min Cost Climbing Stairs]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/746.py) |
+|198| [House Robber]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/198.py) |
+|790| [Domino and Tromino Tiling]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/790.py) |
 #### DP - Multidimensional
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|62| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/62.py) |
-|1143| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1143.py) |
-|714| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/714.py) |
-|72| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/72.py) |
+|62| [Unique Paths]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/62.py) |
+|1143| [Longest Common Subsequence]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1143.py) |
+|714| [Best Time to Buy and Sell Stock with Transaction Fee]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/714.py) |
+|72| [Edit Distance]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/72.py) |
 #### Bit Manipulation
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|338| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/338.py) |
-|136| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/136.py) |
-|1318| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1318.py) |
+|338| [Counting Bits]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/338.py) |
+|136| [Single Number]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/136.py) |
+|1318| [Minimum Flips to Make a OR b Equal to c]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1318.py) |
 #### Trie
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|208| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/208.py) |
-|1268| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1268.py) |
+|208| [Implement Trie (Prefix Tree)]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/208.py) |
+|1268| [Search Suggestions System]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1268.py) |
 #### Intervals
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|435| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/435.py) |
-|452| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/452.py) |
+|435| [Non-overlapping Intervals]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/435.py) |
+|452| [Minimum Number of Arrows to Burst Balloons]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/452.py) |
 #### Monotonic Stack
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|739| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/739.py) |
-|901| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/901.py) |
+|739| [Daily Temperatures]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/739.py) |
+|901| [Online Stock Span]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/901.py) |
  
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
 
