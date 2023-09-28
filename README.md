@@ -1,27 +1,15 @@
-# Leetcode Python solutions
+# Leetcode Solutions
 
-## About
+This collection features my detailed solutions to a wide range of LeetCode algorithm questions. Whether you're preparing for technical interviews at top-tier companies or simply looking to enhance your coding skills, you'll find a wealth of valuable insights and problem-solving approaches here. Feel free to explore, learn, and contribute to this growing resource. Happy coding!
 
-This repository includes my solutions to all Leetcode algorithm questions. This problems mostly consist of real interview questions that are asked on big companies like Facebook, Amazon, Netflix, Google etc. If you find my solutions hard to comprehend, give yourself a time to solve easier questions or check discussion section to problem on [LeetCode.](https://leetcode.com/) Feel free to contact me for improvements :smiley:
+<a href="https://www.linkedin.com/in/jordanperanginangin/" style="margin-right: 20px;">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="LinkedIn" width="25" height="25">
+</a>
+<a href="https://twitter.com/kapforty">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="Twitter" width="25" height="25">
+</a>
 
-### Prerequisites
-
-Some problems may need premium subscription on LeetCode to unlock it! 
-
-```
-import premium
-```
-
-## List of Problems
-| # | Problem | Solution |
-| :---: | --- | --- |
-|1| [Two Sum](https://leetcode.com/problems/two-sum/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1.py) |
-|17| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [python3](https://github.com/kapforty/leetcode/blob/main/python3/17.py) |
-|40| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/40.py) |
-|90| [Subsets II](https://leetcode.com/problems/subsets-ii/description/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/90.py) |
-|217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [python3](https://github.com/kapforty/leetcode/blob/main/python3/217.py) |
-|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [python3](https://github.com/kapforty/leetcode/blob/main/python3/242.py) |
-<!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
+<hr>
 
 
 
