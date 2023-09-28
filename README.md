@@ -165,3 +165,23 @@ https://leetcode.com/studyplan/leetcode-75/
 |739| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/739.py) |
 |901| [Online Stock Span](https://leetcode.com/problems/online-stock-span/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/901.py) |
 </details>
+
+
+
+
+
+<!-- TOP INTERVIEW 150 -->
+<details>
+<summary><h2>Top Interview 150</h2></summary>
+
+https://leetcode.com/studyplan/top-interview-150/
+#### Array / String
+| # | Problem | Solution |
+| :---: | --- | --- |
+<!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
+</details>
+
+
+
+
+<!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
