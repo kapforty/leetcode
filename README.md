@@ -29,7 +29,7 @@ import premium
 
 <!-- LEETCODE 75 -->
 <details>
-<summary style="cursor: default;"><h2>LeetCode 75</h2></summary>
+<summary><h2>LeetCode 75</h2></summary>
 
 https://leetcode.com/studyplan/leetcode-75/
 #### Array / String
