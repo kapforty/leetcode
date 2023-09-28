@@ -54,62 +54,125 @@ https://leetcode.com/studyplan/leetcode-75/
 #### Prefix Sum
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|1732| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1732.py) |
+|724| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/724.py) |
 #### Hash Map / Set
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|2215| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2215.py) |
+|1207| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1207.py) |
+|1657| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1657.py) |
+|2352| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2352.py) |
 #### Stack
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|2390| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2390.py) |
+|735| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/735.py) |
+|394| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/394.py) |
 #### Queue
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|933| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/933.py) |
+|649| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/649.py) |
 #### Linked List
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|2095| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2095.py) |
+|328| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/328.py) |
+|206| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/206.py) |
+|2130| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2130.py) |
 #### Binary Tree - DFS
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|104| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/104.py) |
+|872| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/872.py) |
+|1448| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1448.py) |
+|437| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/437.py) |
+|1372| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1372.py) |
+|236| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/236.py) |
 #### Binary Tree - BFS
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|199| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/199.py) |
+|1161| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1161.py) |
 #### Binary Search Tree
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|700| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/700.py) |
+|450| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/450.py) |
 #### Graphs - DFS
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|841| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/841.py) |
+|547| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/547.py) |
+|1466| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1466.py) |
+|399| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/399.py) |
 #### Graphs - BFS
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|1926| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1926.py) |
+|994| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/994.py) |
 #### Heap / Priority Queue
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|215| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/215.py) |
+|2336| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2336.py) |
+|2542| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2542.py) |
+|2462| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2462.py) |
 #### Binary Search
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|374| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/374.py) |
+|2300| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2300.py) |
+|162| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/162.py) |
+|875| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/875.py) |
 #### Backtracking
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|17| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/17.py) |
+|216| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/216.py) |
 #### DP - 1D
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|1137| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1137.py) |
+|746| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/746.py) |
+|198| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/198.py) |
+|790| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/790.py) |
 #### DP - Multidimensional
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|62| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/62.py) |
+|1143| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1143.py) |
+|714| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/714.py) |
+|72| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/72.py) |
 #### Bit Manipulation
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|338| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/338.py) |
+|136| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/136.py) |
+|1318| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1318.py) |
 #### Trie
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|208| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/208.py) |
+|1268| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1268.py) |
 #### Intervals
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|435| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/435.py) |
+|452| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/452.py) |
 #### Monotonic Stack
 | #    | Problem                                                                                                                                                         | Solution                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-
-
+|739| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/739.py) |
+|901| []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/901.py) |
+ 
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
+
+
+
+
+
+
 
 
