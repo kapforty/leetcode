@@ -29,8 +29,9 @@ import premium
 
 <!-- LEETCODE 75 -->
 <details>
-<summary><a href="https://leetcode.com/studyplan/leetcode-75/" target="_blank"><h2>LeetCode 75</h2></a></summary>
+<summary style="cursor: default;"><h2>LeetCode 75</h2></summary>
 
+https://leetcode.com/studyplan/leetcode-75/
 #### Array / String
 | # | Problem | Solution |
 | :---: | --- | --- |
