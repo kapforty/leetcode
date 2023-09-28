@@ -23,8 +23,14 @@ import premium
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [python3](https://github.com/kapforty/leetcode/blob/main/python3/242.py) |
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
 
-## LeetCode 75 
-https://leetcode.com/studyplan/leetcode-75/
+
+
+
+
+<!-- LEETCODE 75 -->
+<details>
+<summary><a href="https://leetcode.com/studyplan/leetcode-75/" target="_blank"><h2>LeetCode 75</h2></a></summary>
+
 #### Array / String
 | # | Problem | Solution |
 | :---: | --- | --- |
@@ -166,13 +172,4 @@ https://leetcode.com/studyplan/leetcode-75/
 | :---: | --- | --- |
 |739| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/739.py) |
 |901| [Online Stock Span](https://leetcode.com/problems/online-stock-span/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/901.py) |
-
-<!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
-
-
-
-
-
-
-
-
+</details>
