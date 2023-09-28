@@ -115,57 +115,57 @@ https://leetcode.com/studyplan/leetcode-75/
 #### Heap / Priority Queue
 | # | Problem | Solution |
 | --- | --- | --- |
-|215| [Kth Largest Element in an Array]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/215.py) |
-|2336| [Smallest Number in Infinite Set]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2336.py) |
-|2542| [Maximum Subsequence Score]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2542.py) |
-|2462| [Total Cost to Hire K Workers]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2462.py) |
+|215| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/215.py) |
+|2336| [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2336.py) |
+|2542| [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2542.py) |
+|2462| [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2462.py) |
 #### Binary Search
 | # | Problem | Solution |
 | --- | --- | --- |
-|374| [Guess Number Higher or Lower]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/374.py) |
-|2300| [Successful Pairs of Spells and Potions]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2300.py) |
-|162| [Find Peak Element]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/162.py) |
-|875| [Koko Eating Bananas]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/875.py) |
+|374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/374.py) |
+|2300| [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/2300.py) |
+|162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/162.py) |
+|875| [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/875.py) |
 #### Backtracking
 | # | Problem | Solution |
 | --- | --- | --- |
-|17| [Letter Combinations of a Phone Number]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/17.py) |
-|216| [Combination Sum III]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/216.py) |
+|17| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/17.py) |
+|216| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/216.py) |
 #### DP - 1D
 | # | Problem | Solution |
 | --- | --- | --- |
-|1137| [N-th Tribonacci Number]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1137.py) |
-|746| [Min Cost Climbing Stairs]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/746.py) |
-|198| [House Robber]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/198.py) |
-|790| [Domino and Tromino Tiling]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/790.py) |
+|1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1137.py) |
+|746| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/746.py) |
+|198| [House Robber](https://leetcode.com/problems/house-robber/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/198.py) |
+|790| [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/790.py) |
 #### DP - Multidimensional
 | # | Problem | Solution |
 | --- | --- | --- |
-|62| [Unique Paths]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/62.py) |
-|1143| [Longest Common Subsequence]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1143.py) |
-|714| [Best Time to Buy and Sell Stock with Transaction Fee]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/714.py) |
-|72| [Edit Distance]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/72.py) |
+|62| [Unique Paths](https://leetcode.com/problems/unique-paths/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/62.py) |
+|1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1143.py) |
+|714| [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/714.py) |
+|72| [Edit Distance](https://leetcode.com/problems/edit-distance/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/72.py) |
 #### Bit Manipulation
 | # | Problem | Solution |
 | --- | --- | --- |
-|338| [Counting Bits]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/338.py) |
-|136| [Single Number]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/136.py) |
-|1318| [Minimum Flips to Make a OR b Equal to c]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1318.py) |
+|338| [Counting Bits](https://leetcode.com/problems/counting-bits/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/338.py) |
+|136| [Single Number](https://leetcode.com/problems/single-number/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/136.py) |
+|1318| [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1318.py) |
 #### Trie
 | # | Problem | Solution |
 | --- | --- | --- |
-|208| [Implement Trie (Prefix Tree)]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/208.py) |
-|1268| [Search Suggestions System]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1268.py) |
+|208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/208.py) |
+|1268| [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/1268.py) |
 #### Intervals
 | # | Problem | Solution |
 | --- | --- | --- |
-|435| [Non-overlapping Intervals]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/435.py) |
-|452| [Minimum Number of Arrows to Burst Balloons]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/452.py) |
+|435| [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/435.py) |
+|452| [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/452.py) |
 #### Monotonic Stack
 | # | Problem | Solution |
 | --- | --- | --- |
-|739| [Daily Temperatures]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/739.py) |
-|901| [Online Stock Span]()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/901.py) |
+|739| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/739.py) |
+|901| [Online Stock Span](https://leetcode.com/problems/online-stock-span/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/901.py) |
 
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
 
