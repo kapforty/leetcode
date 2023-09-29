@@ -185,9 +185,9 @@ https://leetcode.com/studyplan/top-interview-150/
 |169| [Majority Element](https://leetcode.com/problems/majority-element/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/169.py) |
 |189| [Rotate Array](https://leetcode.com/problems/rotate-array/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/189.py) |
 |121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/121.py) |
+|122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/122.py) |
 </details>
 
-
-
-
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
+
+
