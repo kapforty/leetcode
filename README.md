@@ -184,6 +184,7 @@ https://leetcode.com/studyplan/top-interview-150/
 |80| [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/80.py) |
 |169| [Majority Element](https://leetcode.com/problems/majority-element/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/169.py) |
 |189| [Rotate Array](https://leetcode.com/problems/rotate-array/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/189.py) |
+|121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/121.py) |
 </details>
 
 
