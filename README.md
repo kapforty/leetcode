@@ -183,6 +183,7 @@ https://leetcode.com/studyplan/top-interview-150/
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/26.py) |
 |80| [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/80.py) |
 |169| [Majority Element](https://leetcode.com/problems/majority-element/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/169.py) |
+|189| [Rotate Array](https://leetcode.com/problems/rotate-array/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/189.py) |
 </details>
 
 
