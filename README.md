@@ -186,6 +186,8 @@ https://leetcode.com/studyplan/top-interview-150/
 |189| [Rotate Array](https://leetcode.com/problems/rotate-array/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/189.py) |
 |121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/121.py) |
 |122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/122.py) |
+|55| [Jump Game](https://leetcode.com/problems/jump-game/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/55.py) |
+|45| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/45.py) |
 </details>
 
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
