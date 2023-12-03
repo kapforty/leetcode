@@ -188,6 +188,93 @@ https://leetcode.com/studyplan/top-interview-150/
 |122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/122.py) |
 |55| [Jump Game](https://leetcode.com/problems/jump-game/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/55.py) |
 |45| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/45.py) |
+|274| [H-Index](https://leetcode.com/problems/h-index/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/274.py) |
+|380| [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/380.py) |
+|238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/238.py) |
+|134| [Gas Station](https://leetcode.com/problems/gas-station/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/134.py) |
+|135| [Candy](https://leetcode.com/problems/candy/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/135.py) |
+|42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/42.py) |
+|13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/13.py) |
+|12| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/12.py) |
+|58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/58.py) |
+|14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/14.py) |
+|151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/151.py) |
+|6| [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/6.py) |
+|28| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/28.py) |
+|68| [Text Justification](https://leetcode.com/problems/text-justification/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/68.py) |
+#### Two Pointers
+| # | Problem | Solution |
+| :---: | --- | --- |
+|125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/125.py) |
+|392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/392.py) |
+|167| [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/167.py) |
+|11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/11.py) |
+|15| [3Sum](https://leetcode.com/problems/3sum/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/15.py) |
+#### Sliding Window
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Matrix
+| # | Problem | Solution |
+| :---: | --- | --- |
+|36| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/36.py) |
+|54| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/54.py) |
+|48| [Rotate Image](https://leetcode.com/problems/rotate-image/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/48.py) |
+|73| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/73.py) |
+|289| [Game of Life](https://leetcode.com/problems/game-of-life/)| [python3](https://github.com/kapforty/leetcode/blob/main/python3/289.py) |
+#### Hashmap
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Intervals
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Stack
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Linked List
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Binary Tree General
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Binary Tree BFS
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Binary Search Tree
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Graph General
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Graph BFS
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Backtracking
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Divide & Conquer
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Kadane's Algorithm
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Binary Search
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Heap
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Bit Manipulation
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Math
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### 1D DP
+| # | Problem | Solution |
+| :---: | --- | --- |
+#### Multidimensional DP
+| # | Problem | Solution |
+| :---: | --- | --- |
 </details>
 
 <!-- || []()| [python3](https://github.com/kapforty/leetcode/blob/main/python3/.py) | -->
