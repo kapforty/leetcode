@@ -1,3 +1,25 @@
+# 12 August 2024
+class Solution:
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+        candidates.sort()
+        res = []
+        def bt(curr, currSum, idx):
+            if currSum > target:
+                return
+            elif currSum == target:
+                res.append(curr)
+                return
+            else:
+                for i in range(idx, len(candidates)):
+                    if i > idx and candidates[i] == candidates[i - 1]:
+                        continue
+                    if candidates[i] > target:
+                        break
+                    bt(curr + [candidates[i]], currSum + candidates[i], i + 1)
+        bt([], 0, 0)
+        return res
+
+# 3 February 2023
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
