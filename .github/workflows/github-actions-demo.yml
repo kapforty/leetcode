@@ -8,11 +8,6 @@ jobs:
   demo:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch Comment
-        run: echo "comment=${{ github.event.comment.body }}" >> $GITHUB_ENV
-
       - name: Echo Comment
         run: |
-          echo "Comment: $comment"
-        env:
-          comment: ${{ env.comment }}
+          echo "Comment: ${{ github.event.comment.body }}"
