@@ -11,5 +11,3 @@ jobs:
       - name: Echo Comment
         run: |
           echo "Comment: ${{ github.event.comment.body }}"
-        env:
-          comment: ${{ env.comment }}
